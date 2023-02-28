@@ -34,5 +34,6 @@ jobs:
         
       - name: Compile latest release
         run: git tag v1.1.1 
-        git push --tags
+      - name: Pushing tags
+        run: git push --tags
       
