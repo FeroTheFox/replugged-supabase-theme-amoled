@@ -10,7 +10,7 @@ on:
     name: Run linters
     runs-on: ubuntu-latest
 
-  steps:
+    steps:
     - name: Check out Git repos
       uses: actions/checkout@v3
       
