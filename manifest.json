@@ -7,7 +7,7 @@
     "discordID": "321979292923854849",
     "github": "CensoredOSU"
   },
-  "version": "1.1.1",
+  "version": "1.1.2",
   "updater": {
     "type": "github",
     "id": "CensoredOSU/replugged-supabase-theme-amoled"
