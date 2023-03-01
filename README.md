@@ -29,7 +29,7 @@
 
 <!--
 ```sh
-git tag v1.2.0
+git tag v1.1.0
 git push --tags
 ```
 -->
