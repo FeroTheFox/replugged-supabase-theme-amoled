@@ -33,5 +33,3 @@ git tag v1.1.2
 git push --tags
 ```
 -->
-git tag v1.1.2
-git push --tags
