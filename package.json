@@ -1,6 +1,6 @@
 {
   "name": "replugged-supabase-theme-amoled",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Replugged theme based on supabase",
   "engines": {
     "node": ">=14.0.0"
