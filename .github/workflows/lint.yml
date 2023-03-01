@@ -33,7 +33,7 @@ jobs:
         run: pnpm run lint
         
       - name: Compiling
-        run: git tag v1.1.0
+        run: git tag v1.1.2
         
       - name: Pushing tags
         run: git push --tags
