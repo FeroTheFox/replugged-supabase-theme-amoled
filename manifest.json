@@ -1,16 +1,16 @@
 {
-  "id": "dev.fooooooooooooooo.supabase",
-  "name": "Supabase theme",
+  "id": "dev.CensoredOSU.supabase",
+  "name": "Supabase theme Amoled",
   "description": "Replugged theme based on supabase",
   "author": {
-    "name": "fooooooooooooooo",
-    "discordID": "131283250042634241",
-    "github": "fooooooooooooooo"
+    "name": "CensoredOSU",
+    "discordID": "321979292923854849",
+    "github": "CensoredOSU"
   },
-  "version": "1.1.0",
+  "version": "1.1.1",
   "updater": {
     "type": "github",
-    "id": "fooooooooooooooo/replugged-supabase-theme"
+    "id": "CensoredOSU/replugged-supabase-theme-amoled"
   },
   "license": "MIT",
   "type": "replugged-theme",
