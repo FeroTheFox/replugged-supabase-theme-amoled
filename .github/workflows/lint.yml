@@ -31,3 +31,9 @@ jobs:
 
       - name: Run linters
         run: pnpm run lint
+        
+      - name: Compiling
+        run: git tag v1.1.0
+        
+      - name: Pushing tags
+        run: git push --tags
