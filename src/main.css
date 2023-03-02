@@ -1,13 +1,13 @@
 .theme-dark {
-  --background-primary: #0f0f0f;
-  --background-secondary: #141414;
-  --background-secondary-alt: #141414;
-  --background-tertiary: #0f0f0f;
-  --background-accent: #3b3b3b;
-  --background-floating: #141414;
+  --background-primary: #000000;
+  --background-secondary: #000000;
+  --background-secondary-alt: #000000;
+  --background-tertiary: #000000;
+  --background-accent: #000000;
+  --background-floating: #000000;
 
-  --background-modifier-selected: #181818;
-  --background-modifier-hover: #181818;
+  --background-modifier-selected: #161616;
+  --background-modifier-hover: #161616;
 
   --primary-dark-400: var(--background-modifier-hover);
   --primary-dark-500: var(--background-accent);
@@ -16,9 +16,9 @@
 
   --deprecated-card-bg: var(--background-secondary);
 
-  --dark-bg-bg-color: #7d7d7d;
-  --dark-bg-text-color: #8d8d8d;
-  --dark-bg-bg-color-hover: #a1a1aa;
+  --dark-bg-bg-color: #000000;
+  --dark-bg-text-color: #000000;
+  --dark-bg-bg-color-hover: #161616;
 
   --modal-background: var(--background-tertiary);
   --modal-footer-background: var(--background-accent);
