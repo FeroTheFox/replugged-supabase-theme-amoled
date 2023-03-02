@@ -35,4 +35,7 @@ jobs:
         with:
           artifacts: 'bundle/*'
           makeLatest: true
-          
+      - name: Tagging
+        run: git tag v1.2.0
+      - name: Pushing tags
+        run: git push --tags
