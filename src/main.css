@@ -16,9 +16,9 @@
 
   --deprecated-card-bg: var(--background-secondary);
 
-  --dark-bg-bg-color: #000000;
-  --dark-bg-text-color: #000000;
-  --dark-bg-bg-color-hover: #161616;
+  --dark-bg-bg-color: #3d3d3d;
+  --dark-bg-text-color: #6d6d6d;
+  --dark-bg-bg-color-hover: #5d5d5d;
 
   --modal-background: var(--background-tertiary);
   --modal-footer-background: var(--background-accent);
