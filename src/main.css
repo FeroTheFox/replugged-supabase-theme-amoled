@@ -5,6 +5,7 @@
   --background-tertiary: #000000;
   --background-accent: #000000;
   --background-floating: #000000;
+  --home-background: #000000;
 
   --background-modifier-selected: #161616;
   --background-modifier-hover: #161616;
@@ -37,15 +38,15 @@
 
 /* patches for things that dont use variables for some unknown reason */
 
-.theme-dark .control-1fl03- > .container-2nx-BQ {
+.theme-dark .control-1fl03->.container-2nx-BQ {
   background-color: var(--background-modifier-selected) !important;
 }
 
-.theme-dark .control-1fl03- > .container-2nx-BQ.disabled-3ipGAF {
+.theme-dark .control-1fl03->.container-2nx-BQ.disabled-3ipGAF {
   background-color: var(--input-background) !important;
 }
 
-.theme-dark .control-1fl03- > .container-2nx-BQ.checked-25WXMf {
+.theme-dark .control-1fl03->.container-2nx-BQ.checked-25WXMf {
   background-color: var(--green-thing) !important;
 }
 
@@ -61,7 +62,7 @@
   --interactive-active: var(--dark-bg-bg-color-hover);
 }
 
-.emojiButtonNormal-35P0_i > div {
+.emojiButtonNormal-35P0_i>div {
   filter: brightness(0.6);
 }
 
