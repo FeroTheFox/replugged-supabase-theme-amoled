@@ -70,3 +70,9 @@
   --interactive-normal: var(--default-text-color);
   --interactive-active: var(--default-text-color);
 }
+
+/* forum post divider */
+
+.divider-AZrXIA {
+  background-color: #000000;
+}
