@@ -76,3 +76,22 @@
 .divider-AZrXIA {
   background-color: #000000;
 }
+
+/* customize community channel */
+.theme-dark .innerHeader-1cC3Fp:after {
+  background: linear-gradient(180deg, rgba(50, 52, 58, 0) 0, #000000);
+}
+
+.theme-dark .container-1um7CU {
+  background-color: #000000;
+}
+
+.theme-dark .container-2IKOsH,
+.theme-dark .header-3xB4vB {
+  background-color: #000000;
+}
+
+.theme-dark .emptyPage-2TGR7j,
+.theme-dark .scrollerContainer-y16Rs9 {
+  background-color: #000000;
+}
