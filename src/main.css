@@ -7,8 +7,9 @@
   --background-floating: #000000;
   --home-background: #000000;
 
-  --background-modifier-selected: #161616;
-  --background-modifier-hover: #161616;
+  --background-modifier-accent: #000000;
+  --background-modifier-selected: #000000;
+  --background-modifier-hover: #000000;
 
   --primary-dark-400: var(--background-modifier-hover);
   --primary-dark-500: var(--background-accent);
